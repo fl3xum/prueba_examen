@@ -1,0 +1,59 @@
+ul {
+float: right;
+}
+
+li {
+	display: inline-block;
+}
+
+menu { 
+}
+
+.header { 
+	display: inline-block;
+}
+	
+#header_logo {
+	float: left;
+}
+
+#header_menu {
+	float: right;
+}
+
+#nombre { 
+}
+
+#content1 {
+	width: 90%;
+	height: 100px;
+	margin: 0 auto;
+	background-color: violet;
+}
+
+#content2 {
+	width: 90%;
+	height: 100px;
+	margin: 0 auto;
+	background-color: violet;
+}
+
+#content3 {
+	width: 90%;
+	height: 100px;
+	margin: 0 auto;
+	background-color: violet;
+}
+	
+#titulo { 
+	padding: 0px 0px 0px 700px;
+	color: white;
+	padding-top: 30px;
+}
+
+.box {
+}
+
+#header_menu li {
+	display: inline-block;
+}
